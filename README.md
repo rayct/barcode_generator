@@ -1,7 +1,6 @@
 ## Generate Barcode using Python
 
-## Note! that before running this code, you will need to install the barcode package dependencies. You can do this by running pip install python-barcode.
-### pip install python-barcode
+## Note! that before running this code, you will need to install the barcode package dependencies. ## You can do this by running: pip install python-barcode.
 
 ## This is a Python code snippet that generates a barcode image in PNG format using the barcode package. Here's how it works: 
 1. The user is prompted to input the code that they want to generate a barcode for.
