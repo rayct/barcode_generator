@@ -3,13 +3,13 @@
 ## Note! that before running this code, you will need to install the barcode package dependencies.
 ## You can do this by running: pip install python-barcode.
 
-## This is a Python code snippet that generates a barcode image in PNG format using the barcode package. Here's how it works:
+### This is a Python code snippet that generates a barcode image in PNG format using the barcode package. Here's how it works:
 
 ## Version: 1.0.1: Updated Code with error handling.
 
 ### With this error handling code, the program will inform the user about any input errors that occur and prompt them to enter a valid code.
 
-### The code in Version: 1.0 seems to be correct, however it may produce some errors depending on the input provided by the user.
+### The code in version: 1.0 seems to be correct, however it may produce some errors depending on the input provided by the user.
 ### Here are some possible errors that may occur:
 
 1. If the user inputs a non-numeric string as the code, the program will raise a ValueError when the barcode_format() function is called.
